@@ -5,8 +5,8 @@ The primary goal of this project is to perform a comprehensive analysis of elect
 ### Project Overview
 This dashboard provides a user-friendly and interactive visual representation of EV sales data, offering insights through key metrics and detailed charts. It is built using MS-Excel with a focus on clarity and efficiency in data presentation, catering to stakeholders seeking a deeper understanding of the EV market..
 
-#### Key Features
-##### KPIs Displayed:
+#### Key Features:
+##### KPIs Displayed
 - Total Number of EVs (Battery Electric Vehicles and Plug-in Hybrid Electric Vehicles)
 - Average Electric Range of Vehicles
 - Percentage of Vehicles Eligible for Clean Alternative Fuel Vehicle (CAFV) Incentivest
@@ -18,7 +18,7 @@ This dashboard provides a user-friendly and interactive visual representation of
 - Model Popularity: A tree map highlighting the top 10 EV models based on sales.
 - CAFV Eligibility Breakdown: A donut chart representing the proportion of vehicles eligible for CAFV incentives.
 
-#### Filters for Dynamic Analysis
+#### Filters for Dynamic Analysis:
 - City filter for analyzing specific local trends.
 - Electric utility filter for exploring EV adoption linked to utility providers.
 - EV type filter to focus on Battery Electric Vehicles (BEVs) or Plug-in Hybrid Electric Vehicles (PHEVs).
