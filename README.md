@@ -3,7 +3,7 @@
 The primary goal of this project is to perform a comprehensive analysis of electric vehicle (EV) market trends, manufacturer performance, and regional adoption. By leveraging key performance indicators (KPIs) and visualizations, this project aims to uncover actionable insights into EV adoption and identify opportunities for growth and optimization in the EV sector.
 
 ### Project Overview
-This dashboard provides a user-friendly and interactive visual representation of EV sales data, offering insights through key metrics and detailed charts. It is built using MS-Excel with a focus on clarity and efficiency in data presentation, catering to stakeholders seeking a deeper understanding of the EV market..
+This dashboard provides a user-friendly and interactive visual representation of EV sales data from the year 2010 upto 2024, which is taken from kaggle website, offering insights through key metrics and detailed charts.
 
 #### Key Features:
 ##### KPIs Displayed
