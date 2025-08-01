@@ -1,4 +1,4 @@
-# EV-Sales-Dashboard_PowerBI
+# EV Analysis Dashboard_PowerBI
 ### Project Objective
 The primary goal of this project is to perform a comprehensive analysis of electric vehicle (EV) market trends, manufacturer performance, and regional adoption. By leveraging key performance indicators (KPIs) and visualizations, this project aims to uncover actionable insights into EV adoption and identify opportunities for growth and optimization in the EV sector.
 
